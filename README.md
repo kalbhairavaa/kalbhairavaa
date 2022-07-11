@@ -22,6 +22,7 @@
 - ⚡ Fun fact: My profile picture and my name are connected.
 - 🏠 Where I'm at home: GMT or GMT+1.
 
+
 ### 💻 OS
 
 <p> 
@@ -49,6 +50,7 @@
         src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
 </p>
 
+
 #### ⌨️ Programming languages (Currently learning)
 <p>
 <a href="https://docs.soliditylang.org" target="_blank"><img alt="Go"
@@ -56,6 +58,7 @@
 <a href="https://docs.soliditylang.org" target="_blank"><img alt="Rust"
         src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
 </p>
+
 
 #### 🎛 Frameworks and runtime environments
 
@@ -68,6 +71,7 @@
         src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 </p>
 
+
 #### 🎛 Frameworks and runtime environments (Currently learning)
 
 <p>
@@ -78,6 +82,7 @@
 - [Hardhat](https://hardhat.org)
 - [Truffle Suite](https://trufflesuite.com)
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
+
 
 #### 🗃 Package, dependency, and environment management
 
@@ -91,6 +96,7 @@
     <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
         src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
 </p>
+
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
@@ -108,6 +114,7 @@
 - [ethers.js](https://docs.ethers.io)
 - [web3.js](https://web3js.readthedocs.io)
 - [web3.py](https://web3py.readthedocs.io/en/stable/)
+
 
 ### 🔎 Some stats
 
