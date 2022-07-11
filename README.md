@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 <p>
     <a href="https://reactjs.org/" target="_blank"><img alt="React"
         src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS"
+        src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
     <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img alt="Flask"
         src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 </p>
@@ -75,8 +77,10 @@ Here are some ideas to get you started:
 #### 🗃 Package, dependency, and environment management
 
 <p>
-    <a href="https://docs.conda.io" target="_blank"><img alt="Conda"
-        src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+    <a href="https://docs.conda.io" target="_blank"><img alt="Pypi"
+        src="https://img.shields.io/badge/Pypi-342B029.svg?&style=for-the-badge&logo=pypi&logoColor=white"/></a>
+    <a href="https://pypi.org/" target="_blank"><img alt="Conda"
+        src="https://img.shields.io/badge/conda-3775A9.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
     <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
         src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
     <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
@@ -94,10 +98,6 @@ Here are some ideas to get you started:
 <p>
     <a href="https://numpy.org" target="_blank"><img alt="NumPy"
         src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-</p>
-<p>
-    <a href="https://numpy.org" target="_blank"><img alt="Tailwind CSS"
-        src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 </p>
 
 - [ethers.js](https://docs.ethers.io)
