@@ -1,11 +1,16 @@
 ### Hi there 👋 I'm Kaal
 
-<!--
-**kalbhairavaa/kalbhairavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> 
+    <a href="https://discordapp.com/users/kaalbhairavaa#8107" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://github.com/kalbhairavaa" target="_blank"><img alt="GitHub"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </a>
+    <a href="https://www.reddit.com/user/kalbhairavaa" target="_blank"><img alt="Reddit"
+        src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
-
--->
+### About me
 
 - 🔭 I’m currently working towards being a Full Stack (python(flask), MERN) / Blockchain / Smart Contract Developer.
 - 🌱 I’m currently learning Solidity, Go & Rust.
