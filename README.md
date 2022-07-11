@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working towards being a Full Stack (python(flask), MERN) / Blockchain /Smart Contract Developer
+- 🔭 I’m currently working towards being a Full Stack (python(flask), MERN) / Blockchain / Smart Contract Developer
 - 🌱 I’m currently learning Solidity, Go & Rust
-🔧 My day job involves developing iOS apps. I might do a bit of PHP and C# on the side. I also might do a bit of python (flask) as well. If you push me, I might do a bit of HTML, CSS & JavaScript (Jamstack - React) as well.
+🔧 My day job involves developing iOS apps. I might do a bit of PHP and C# on the side and Python (flask) as well. If you push me, I might do a bit of HTML, CSS & JavaScript (Jamstack - React) as well.
 - 👯 I’m looking to collaborate on Blockchain Projects
 - 🤔 I’m looking for help with Go Concurrency and Rust Lifetimes
 - 💬 Ask me about anything - I like to babble.
 - 📫 How to reach me: [kalbhairavaa@gmail.com](mailto:kalbhairavaa@gmail.com).
-- ⚡ Fun fact: My profile picture and my name match.
+- ⚡ Fun fact: My profile picture and my name are connected.
 - 🏠 Where I'm at home: GMT or GMT+1 
 
 ### 💻 OS
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
         src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
 </p>
 
-##### ⌨️ Programming languages (Currently learning)
+#### ⌨️ Programming languages (Currently learning)
 <p>
 <a href="https://docs.soliditylang.org" target="_blank"><img alt="Go"
         src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
@@ -57,7 +57,14 @@ Here are some ideas to get you started:
 <p>
     <a href="https://reactjs.org/" target="_blank"><img alt="React"
         src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
+    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img alt="Flask"
+        src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+</p>
+
+#### 🎛 Frameworks and runtime environments (Currently learning)
+
+<p>
+<a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </p>
 
@@ -87,6 +94,10 @@ Here are some ideas to get you started:
 <p>
     <a href="https://numpy.org" target="_blank"><img alt="NumPy"
         src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+</p>
+<p>
+    <a href="https://numpy.org" target="_blank"><img alt="Tailwind CSS"
+        src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 </p>
 
 - [ethers.js](https://docs.ethers.io)
