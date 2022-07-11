@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working towards being a Full Stack (python(flask), MERN) / Blockchain / Smart Contract Developer.
 - 🌱 I’m currently learning Solidity, Go & Rust.
-- 🔧 My day job involves developing iOS apps. I might do a bit of PHP and C# on the side and Python (flask) as well. If you push me, I might do a bit of HTML, CSS & JavaScript (Jamstack - React) as well.
+- 🔧 My day job involves developing iOS apps. I might do a bit of PHP, C# and Python (flask) on the side. If you push me, I might do a bit of HTML, CSS & JavaScript (Jamstack - React) as well.
 - 👯 I’m looking to collaborate on Blockchain Projects.
 - 🤔 I’m looking for help with Go Concurrency and Rust Lifetimes.
 - 💬 Ask me about anything - I like to babble.
